@@ -1,6 +1,6 @@
 # Installation Guide
 
-This guide walks you through installing and running **ScammerAlert Report Staff** locally.
+This guide walks you through installing and running **ScammerAlert Report Staff selfbot** locally.
 
 ---
 
@@ -24,8 +24,8 @@ npm -v
 ## 📦 Clone the Repository
 
 ```bash
-git clone https://github.com/764Beef/ScammerAlert-Report-Staff.git
-cd ScammerAlert-Report-Staff
+git clone https://github.com/764Beef/ScammerAlert-Report-Staff-selfbot.git
+cd ScammerAlert-Report-Staff-selfbot
 ```
 
 ---
