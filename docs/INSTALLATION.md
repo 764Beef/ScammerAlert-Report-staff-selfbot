@@ -65,14 +65,14 @@ npm start
 If no start script exists:
 
 ```bash
-node src/reports.js
+node ScammerAlert-Report-staff-selfbot/reports.js
 ```
 
 ## 🟢 Running with PM2
 
 PM2 is included as a dependency and allows process management.
 
-Install globally (optional but recommended):
+Install globally:
 
 ```bash
 npm install -g pm2
@@ -81,7 +81,8 @@ npm install -g pm2
 Start the application:
 
 ```bash
-pm2 start src/reports.js --name scammer-alert
+cd ScammerAlert-Report-staff-selfbot
+pm2 start ScammerAlert-Report-staff-selfbot/reports.js --name scammer-alert
 ```
 
 View logs:
