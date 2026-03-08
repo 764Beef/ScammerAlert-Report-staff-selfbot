@@ -24,7 +24,7 @@ The file should contain **only the raw token string** and nothing else.
 Ensure `token.txt` is located in the root directory of the project:
 
 ```
-ScammerAlert-Repost-Staff/
+ScammerAlert-Report-Staff-selfbot/
 │
 ├── token.txt
 ├── package.json
